@@ -7,3 +7,4 @@ apple
 and this
 another line
 and a line added here
+new last line
