@@ -1,6 +1,7 @@
 # tryit
 this is a test
-xxxxxbanana
+I added a line here in github2
+baaaaaaaaaaanana
 blah blah blah
 apple
 and this
